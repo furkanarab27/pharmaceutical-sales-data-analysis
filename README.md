@@ -24,3 +24,4 @@ Pharmaceutical sales dataset containing daily sales information for various ATC 
 - Compared sales performance across different periods.
 - Determined the highest average daily sales category.
 - Analyzed seasonal trends in respiratory drug sales.
+Project URL: https://roadmap.sh/projects/pharmaceutical-sales-data
